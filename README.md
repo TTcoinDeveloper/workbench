@@ -2,7 +2,6 @@
 
 # Workbench
 
-[![CircleCI](https://circleci.com/gh/rubykube/workbench.svg?style=svg)][circleci]
 
 Workbench is an easy way to start Peatio development environment.
 
